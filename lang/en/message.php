@@ -1,0 +1,35 @@
+<?php
+return [
+"dashboard"=>"Dashboard",
+"corona"=>"CORONA",
+"profile"=>"Profile",
+"navigation"=>"Navigation",
+"creat new product"=>"Create New Product",
+"show categories"=>"Show Categories",
+"add"=>"Add",
+"new category"=>"New Category",
+"new product"=>"New Product",
+"title"=>"Title",
+"category"=>"Category",
+"price"=>"Price",
+"quantity"=>"Quantity",
+"desc"=>"Description",
+"image"=>"Image",
+"action"=>"Action",
+"edit"=>"edit",
+"delete"=>"!!DELETE!!",
+"dir"=>"ltr",
+"lang"=>"en",
+////////////////////////////
+"home"=>"Home",
+"search products"=>"Search Products",
+"best offer"=>"Best Offer",
+"new arrivals on sale"=>"New Arrivals On Sale",
+"latest products"=>"Latest Products",
+""=>"",
+""=>"",
+""=>"",
+""=>"",
+
+
+];
